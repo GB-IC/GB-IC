@@ -1,5 +1,4 @@
-### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
+![](https://github-readme-stats.vercel.app/api?username=GB-IC)
 
 <!--
 **GB-IC/GB-IC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
